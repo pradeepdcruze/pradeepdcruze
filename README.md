@@ -1,40 +1,59 @@
-<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:d4af37&text=Pradeep%20Pasupathi&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Aspiring%20Software%20Developer%20•%20Java%20Learner%20•%20Final-Year%20ECE&descAlignY=68"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Pradeep Pasupathi</h1>
 
 <h3 align="center">
-Aspiring Software Developer • Java Learner • Final-Year ECE Student
+Learning • Building • Growing
 </h3>
 
 <p align="center">
-Learning. Building.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;Currently+Learning+Java;Building+My+Coding+Journey"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Final-Year Electronics and Communication Engineering Student
+```java
+public class Pradeep {
 
-☕ Currently learning Java Programming
+    String role = "Aspiring Software Developer";
 
-💻 Passionate about Software Development
+    String education = "B.E. Electronics and Communication Engineering";
 
-🌱 Improving Problem-Solving Skills
+    String college = "V.S.B Engineering College";
 
-📚 Learning Git & GitHub
+    String learning = "Java";
 
-🚀 Working towards becoming a Software Developer
+    String currently = "Git & GitHub";
+
+    String goal = "Software Developer";
+
+}
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Currently Learning
+
+☕ Java
+
+📚 Problem Solving
+
+🌱 Git & GitHub
+
+💻 VS Code
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java"/>
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -46,21 +65,19 @@ Learning. Building.
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
-✔ Master Java Fundamentals
+✅ Master Java Fundamentals
 
-✔ Build Real-World Java Projects
+✅ Learn DSA
 
-✔ Improve Git & GitHub Skills
+✅ Build 10+ Java Projects
 
-✔ Strengthen Problem-Solving Skills
-
-✔ Get Placed as a Software Developer
+✅ Get Placed as a Software Developer
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -82,23 +99,21 @@ Learning. Building.
 
 ---
 
-# 🌱 Currently Learning
-
-☕ Java
-
-📂 Git
-
-🐙 GitHub
-
-💻 VS Code
-
----
-
-# 📫 Connect With Me
+# 📈 Contribution Graph
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pradeep-p-316711336?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pradeep-p-316711336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -110,14 +125,8 @@ Learning. Building.
 
 ---
 
-# 💡 Quote
-
-> "Success comes from learning consistently and improving every day."
-
----
-
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
 
 </p>
