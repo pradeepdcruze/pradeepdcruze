@@ -1,8 +1,9 @@
-<!-- Banner -->
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Pradeep Pasupathi</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Java Learner | Final-Year ECE Student
+Aspiring Software Developer • Java Learner • Final-Year ECE Student
 </h3>
 
 <p align="center">
@@ -11,51 +12,89 @@ Learning. Building.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final-Year Electronics and Communication Engineering Student
-- 💻 Currently learning **Java**
-- 🧩 Improving my problem-solving skills
-- 🚀 Working towards a career in Software Development
-- 📚 Passionate about continuous learning and building practical projects
+🎓 Final-Year Electronics and Communication Engineering Student
+
+☕ Currently learning Java Programming
+
+💻 Passionate about Software Development
+
+🌱 Improving Problem-Solving Skills
+
+📚 Learning Git & GitHub
+
+🚀 Working towards becoming a Software Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
-- ☕ Strengthen Java Fundamentals
-- 🚀 Build Real-World Java Projects
-- 🌿 Improve Git & GitHub Skills
-- 💼 Get Placed as a Software Developer
+✔ Master Java Fundamentals
+
+✔ Build Real-World Java Projects
+
+✔ Improve Git & GitHub Skills
+
+✔ Strengthen Problem-Solving Skills
+
+✔ Get Placed as a Software Developer
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeepdcruze&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdcruze&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepdcruze&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdcruze&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pradeepdcruze&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=pradeepdcruze&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌱 Currently Learning
+
+☕ Java
+
+📂 Git
+
+🐙 GitHub
+
+💻 VS Code
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -71,6 +110,14 @@ Learning. Building.
 
 ---
 
+# 💡 Quote
+
+> "Success comes from learning consistently and improving every day."
+
+---
+
 <p align="center">
-<i>⭐ Thanks for visiting my profile! ⭐</i>
+
+### ⭐ Thanks for visiting my profile! ⭐
+
 </p>
