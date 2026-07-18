@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @pradeepdcruze
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Pradeep Pasupathi</h1>
 
-<!---
-pradeepdcruze/pradeepdcruze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Aspiring Software Developer | Java Learner | Final-Year ECE Student</h3>
+
+<p align="center">
+  <i>Learning. Building.</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-Year Electronics and Communication Engineering Student
+- 💻 Currently learning **Java**
+- 🌱 Improving my **Problem-Solving** skills
+- 🚀 Aspiring Software Developer
+- 📚 Passionate about learning new technologies and building practical projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Master Java
+- ✅ Build real-world Java projects
+- ✅ Learn Git & GitHub
+- ⏳ Start learning DSA
+- 🎯 Get placed as a Software Developer
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** pradeepxz18@gmail.com
+- 💼 **LinkedIn:** *(Add your LinkedIn profile link here)*
+
+---
+
+<h3 align="center">⭐ Learning. Building. Growing. ⭐</h3>
