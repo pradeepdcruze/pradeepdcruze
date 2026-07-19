@@ -49,17 +49,11 @@ Goal        : Software Engineer
 </div>
 
 ---
+## 📈 Contribution Graph
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepdcruze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdcruze&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&theme=tokyo-night&hide_border=true&area=true" width="100%">
+</p>
 ---
 # 🔥 GitHub Streak
 
