@@ -1,45 +1,33 @@
 <div align="center">
 
-# PRADEEP PASUPATHI
+# 👋 Hi, I'm Pradeep Pasupathi
 
-### Aspiring Software Developer
+### Aspiring Software Developer | Java Learner | Final-Year ECE Student
 
-**Java Learner • Final-Year ECE Student**
+**Learning • Building • Growing**
 
-*"Learning. Building. Growing."*
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pradeep-p-316711336)
-
-[![Email](https://img.shields.io/badge/Email-pradeepxz18@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pradeepxz18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeppasupathi)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepxz18@gmail.com)
 
 </div>
-
----
-
-# 👋 Welcome
-
-Every repository on this profile represents a step in my journey from an engineering student to a software developer.
-
-I'm currently learning Java, improving my problem-solving skills, and building projects that strengthen my programming fundamentals.
 
 ---
 
 # 👨‍💻 About Me
 
 ```java
-class Pradeep {
+public class Pradeep {
 
-    String degree = "B.E. Electronics and Communication Engineering";
+    String role = "Aspiring Software Developer";
+
+    String education = "Final-Year ECE Student";
+
+    String college = "V.S.B Engineering College";
 
     String learning = "Java";
 
-    String tools = "Git & GitHub";
+    String goal = "Become a Software Engineer";
 
-    String goal = "Software Developer";
-
-    String mindset = "Learn → Build → Improve";
 }
 ```
 
@@ -47,57 +35,90 @@ class Pradeep {
 
 # 🚀 Current Focus
 
-- ☕ Java Programming
-- 🌱 Git & GitHub
-- 💻 Building Projects
-- 🧠 Problem Solving
+- ☕ Learning Java
+- 🌱 Improving Git & GitHub
+- 💻 Building Java Projects
+- 🎯 Preparing for Software Developer Placements
 
 ---
 
 # 🛠 Tech Stack
 
-- Java
-- Git
-- GitHub
-- VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
 
 ---
 
-# 📌 2026 Goals
+# 📊 GitHub Stats
 
-- Learn Java deeply
-- Build 10+ Java projects
-- Learn DSA
-- Contribute consistently on GitHub
-- Start my software development career
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepdcruze&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdcruze&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pradeepdcruze&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepdcruze&theme=onedark&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-🚧 Coming Soon...
-
-- Java Basics
-- Student Management System
-- ATM Management System
-- Calculator
-- Library Management System
+| Project | Description |
+|---------|-------------|
+| ☕ Java Basics | My Java learning programs |
+| 🏦 ATM Management System | Console-based Java project |
+| 🎓 Student Management System | CRUD operations using Java |
+| 🧮 Calculator | Simple Java calculator |
+| 🚀 More Coming Soon | New projects will be added |
 
 ---
 
-# 📫 Connect
+# 🎯 Goals for 2026
 
-📧 **Email:** pradeepxz18@gmail.com
+- ✅ Master Java
+- ✅ Learn Object-Oriented Programming
+- ✅ Build 10+ Java Projects
+- ✅ Learn Git & GitHub
+- ✅ Start DSA
+- ✅ Learn Spring Boot
+- ✅ Get Placed as a Software Developer
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/pradeep-p-316711336
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pradeeppasupathi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pradeepxz18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ "Every expert was once a beginner."
 
-**Learning one concept. Building one project. Improving every day.**
+Thanks for visiting my profile! ❤️
 
 </div>
