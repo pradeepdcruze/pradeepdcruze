@@ -65,15 +65,6 @@ Goal        : Software Engineer
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
 
 # 🚀 What I'm Currently Doing
 
@@ -87,14 +78,41 @@ Goal        : Software Engineer
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-> ⭐ Pin your best repositories on your GitHub profile so they automatically appear below your README.
+<table>
+<tr>
+<td width="50%">
 
-- 🚗 Smart Accident Detection & Alert System
-- ☕ Java & DSA Practice
-- 🌐 Portfolio Website
-- 🤖 AI / IoT Mini Projects
+### 🚗 Smart Accident Detection & Alert System
+Arduino + GPS + GSM based emergency alert system.
+
+</td>
+
+<td width="50%">
+
+### ☕ Java & DSA
+My Java learning journey with DSA solutions and coding practice.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Website
+A responsive portfolio showcasing my projects and skills.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & IoT Projects
+Mini projects exploring AI, IoT, and embedded systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
