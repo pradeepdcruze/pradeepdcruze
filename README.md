@@ -1,150 +1,110 @@
 <div align="center">
 
-# Pradeep Pasupathi
+<h1>Pradeep Pasupathi</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Developer;ECE+Student;Building+Real-World+Projects;Learning+Data+Structures+%26+Algorithms;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Projects;Java+Developer;ECE+Final+Year+Student;Learning+Data+Structures+%26+Algorithms;Always+Learning+Something+New"/>
 
-<p>
+<br>
 
 <a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradeeppasupathi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=pradeepdcruze&style=for-the-badge&color=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=pradeepdcruze&style=flat-square&color=00E5FF"/>
 
 </div>
 
----
+<br>
 
-## Tech I Use
+## Technologies
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&perline=7"/>
 
-</p>
+</div>
 
----
+<br>
 
-## Contribution Activity
+## Activity
 
-<p align="center">
+<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&theme=github-dark&bg_color=0D1117&hide_border=true&color=00E5FF&line=00E5FF&point=38BDF8&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&bg_color=0d1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 ## Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
+<div align="left">
 
 ### 🚗 Smart Accident Detection System
 
-Real-time accident detection using sensors and automatic emergency alerts.
+> Real-time accident detection and emergency alert system.
 
-**Tech Used**
+**Tech**
+`Arduino` `GPS` `GSM` `Embedded C`
 
-`Arduino` • `GPS` • `GSM`
+🔗 **Repository:** *Coming Soon*
 
-<a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### ☕ Java & DSA Journey
 
-Daily Java programming and Data Structures practice.
+> Documenting my Java learning and problem-solving journey.
 
-**Learning**
+**Topics**
+`Java` `OOP` `Arrays` `Strings` `LeetCode`
 
-`Java` • `Arrays` • `Strings` • `OOP`
+🔗 **Repository:** *Coming Soon*
 
-<a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 🌐 Portfolio Website
 
-Personal responsive portfolio showcasing projects and skills.
+> Personal portfolio showcasing my projects and skills.
 
-**Tech Used**
+**Tech**
+`HTML` `CSS`
 
-`HTML`
+🔗 **Repository:** *Coming Soon*
 
-`CSS`
+---
 
-`JavaScript`
+### 🤖 AI & IoT
 
-<a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+> Building practical AI and IoT solutions for real-world applications.
 
-</td>
+**Focus**
+`IoT` `Embedded Systems` `Automation`
 
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-
-✔ Java
-
-✔ Data Structures
-
-✔ SQL
-
-✔ Git & GitHub
-
-✔ Problem Solving
-
-</td>
-
-</tr>
-
-</table>
+🔗 **Repository:** *Coming Soon*
 
 </div>
 
+<br>
+
+## Currently Learning
+
+<div align="center">
+
+| Java | DSA | MySQL | Git |
+|:----:|:---:|:-----:|:---:|
+| 🟦 | 🟦 | 🟦 | 🟦 |
+
+</div>
+
+<br>
+
+> *"Learning one concept at a time. Building one project at a time."*
+
 ---
-
-## Daily Focus
-
-```text
-✓ Learn something new
-✓ Build useful projects
-✓ Practice Java
-✓ Solve DSA problems
-✓ Improve every day
-```
-
----
-## Open Source Journey
+## Journey
 
 <div align="center">
 
@@ -153,55 +113,61 @@ Personal responsive portfolio showcasing projects and skills.
 │
 ├── 🎓 ECE Final Year
 │
-├── ☕ Learning Java
+├── ☕ Java Development
 │
-├── 💡 Building Real-World Projects
+├── 📘 Data Structures & Algorithms
 │
-├── 📖 Solving DSA Problems
+├── 🚀 Building Real-World Projects
 │
-└── 🚀 Future Software Engineer
+└── 💼 Preparing for Software Engineering
 ```
 
 </div>
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepdcruze&theme=algolia&no-frame=true&no-bg=true&row=1&column=4"/>
-
-</div>
-
----
-
-## Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradeeppasupathi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-> **"Small improvements every day create big results."**
+## Quote
+
+<div align="center">
+
+> **"Success isn't built in a day. It's built one commit at a time."**
+
+</div>
 
 ---
 ---
 
 <div align="center">
 
-## Thanks for Visiting 👋
+## Let's Build Something Meaningful
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+awesome!;Happy+Coding!"/>
+If you're interested in Java, Embedded Systems, IoT, or Software Development, feel free to connect with me.
+
+<br>
+
+<a href="https://github.com/pradeepdcruze">
+<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=00E5FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pradeeppasupathi">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -209,6 +175,6 @@ Personal responsive portfolio showcasing projects and skills.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:38BDF8&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,50:00E5FF,100:38BDF8&section=footer"/>
 
 </div>
