@@ -2,87 +2,86 @@
 
 # Pradeep Pasupathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Java+Developer;ECE+Student;Learning+Java+%26+DSA;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Developer;ECE+Student;Building+Real-World+Projects;Learning+Data+Structures+%26+Algorithms;Open+Source+Learner"/>
 
-<br>
+<p>
 
 <a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradeeppasupathi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=pradeepdcruze&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+</p>
 
-</div>
-
----
-
-# 💻 Tech
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode"/>
+<img src="https://komarev.com/ghpvc/?username=pradeepdcruze&style=for-the-badge&color=00E5FF"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## Tech I Use
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=38BDF8&area=true"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark"/>
 
-</div>
+</p>
 
 ---
+
+## Contribution Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&theme=github-dark&bg_color=0D1117&hide_border=true&color=00E5FF&line=00E5FF&point=38BDF8&area=true"/>
+
+</p>
+
+---
+## Featured Projects
+
 <div align="center">
 
-# ────────── Featured Projects ──────────
-
-</div>
-
-<table width="100%">
+<table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 Smart Accident Detection
+### 🚗 Smart Accident Detection System
 
-Real-time accident detection and emergency alert system.
+Real-time accident detection using sensors and automatic emergency alerts.
 
-**Stack**
+**Tech Used**
 
-- Arduino UNO
-- GPS Module
-- GSM Module
-- Vibration Sensor
+`Arduino` • `GPS` • `GSM`
 
-**Status:** 🟢 In Development
+<a href="https://github.com/pradeepdcruze">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☕ Java & DSA Journey
 
-Improving problem-solving skills through Java.
+Daily Java programming and Data Structures practice.
 
 **Learning**
 
-- Java Basics
-- OOP
-- Arrays
-- Strings
-- LeetCode
+`Java` • `Arrays` • `Strings` • `OOP`
 
-**Status:** 🟢 Active
+<a href="https://github.com/pradeepdcruze">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
@@ -90,34 +89,39 @@ Improving problem-solving skills through Java.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
 
-A modern responsive portfolio.
+Personal responsive portfolio showcasing projects and skills.
 
-**Built With**
+**Tech Used**
 
-- HTML
-- CSS
+`HTML`
 
-**Status:** 🔵 Planning
+`CSS`
+
+`JavaScript`
+
+<a href="https://github.com/pradeepdcruze">
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & IoT
+### 📚 Currently Learning
 
-Exploring intelligent embedded systems.
+✔ Java
 
-**Topics**
+✔ Data Structures
 
-- IoT
-- Embedded Systems
-- Automation
+✔ SQL
 
-**Status:** 🔵 Research
+✔ Git & GitHub
+
+✔ Problem Solving
 
 </td>
 
@@ -125,117 +129,79 @@ Exploring intelligent embedded systems.
 
 </table>
 
+</div>
+
 ---
+
+## Daily Focus
+
+```text
+✓ Learn something new
+✓ Build useful projects
+✓ Practice Java
+✓ Solve DSA problems
+✓ Improve every day
+```
+
+---
+## Open Source Journey
 
 <div align="center">
 
-# ────────── Currently Learning ──────────
-
-<img src="https://img.shields.io/badge/Java-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Data%20Structures-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/MySQL-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+```text
+2026
+│
+├── 🎓 ECE Final Year
+│
+├── ☕ Learning Java
+│
+├── 💡 Building Real-World Projects
+│
+├── 📖 Solving DSA Problems
+│
+└── 🚀 Future Software Engineer
+```
 
 </div>
 
 ---
 
+## GitHub Activity
+
 <div align="center">
 
-> *"Every project is one step closer to becoming the engineer I want to be."*
-
-</div>
-
----
-<div align="center">
-
-# ────────── Contribution Activity ──────────
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepdcruze&bg_color=0d1117&color=00E5FF&line=00E5FF&point=38BDF8&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pradeepdcruze&theme=algolia&no-frame=true&no-bg=true&row=1&column=4"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# ────────── GitHub Journey ──────────
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📂 Repositories
-
-Building meaningful projects instead of collecting repositories.
-
-</td>
-
-<td align="center" width="33%">
-
-### 📖 Learning
-
-Java • DSA • SQL
-
-Improving every day through practice.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎯 Goal
-
-Become a Software Engineer by building real-world solutions.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
+## Connect With Me
 
 <div align="center">
-
-# ────────── Let's Connect ──────────
 
 <a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/Follow%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradeeppasupathi">
-<img src="https://img.shields.io/badge/Connect%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-<div align="center">
 
-# ────────── Open Source Journey ──────────
+> **"Small improvements every day create big results."**
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Improving.;One+Commit+at+a+Time."/>
-
-</div>
-
+---
 ---
 
 <div align="center">
 
-## Thanks for visiting my profile 🤝
+## Thanks for Visiting 👋
 
-If you like my work, consider following my GitHub journey and connecting with me on LinkedIn.
-
-<a href="https://github.com/pradeepdcruze">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pradeeppasupathi">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+awesome!;Happy+Coding!"/>
 
 </div>
 
@@ -243,6 +209,6 @@ If you like my work, consider following my GitHub journey and connecting with me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:00E5FF,100:38BDF8&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:38BDF8&height=140&section=footer"/>
 
 </div>
